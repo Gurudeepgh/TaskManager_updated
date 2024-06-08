@@ -1,0 +1,12 @@
+.task-list {
+  margin-top: 20px;
+}
+
+.task-list h2 {
+  margin-bottom: 10px;
+}
+
+.task-list ul {
+  list-style-type: none;
+  padding: 0;
+}
